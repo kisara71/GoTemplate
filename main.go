@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoTemplate/Slice"
 	"fmt"
+	"github.com/kisara71/GoTemplate/Slice"
 )
 
 func main() {
