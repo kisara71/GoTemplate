@@ -1,4 +1,4 @@
-package Slice
+package kslice
 
 import "errors"
 
